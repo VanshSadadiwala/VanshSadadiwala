@@ -1,14 +1,49 @@
-<h1 align="center">Hi 👋, I'm Vansh Sadadiwala</h1>
-<h3 align="center">A passionate developer from India</h3>
+# 👋 Hi, I'm Vansh Sadadiwala
 
-- ⚡ Fun fact **I Think I love learning new things**
+🚀 Passionate **Web Developer** | **Data Analyst** | **AI/ML Engineer** |  
+🤖 Tech Explorer from Surat, India 🇮🇳  
+🎓 Currently pursuing **B.Tech in Computer Science**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vansh-sadadiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vansh-sadadiwala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vanshsadadiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshsadadiwala" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔍 About Me
 
+I’m a curious learner who loves exploring new technologies, building real-world projects, and solving meaningful problems.  
+Currently diving deep into:
+
+- ⚙️ **Full-Stack Web Development**  
+  *(HTML, CSS, JavaScript, React, Node.js)*
+- 💡 **AI/ML with Python**
+- 🎯 **Data Structures and Algorithms (DSA)**
+- 🧠 **Computer Vision Projects**  
+  *(YOLOv8, FastAPI)*
+- 📚 Lifelong learning through **open-source**, **internships**, and hands-on experience
+
+> I believe in **learning by doing** and building tools that create real impact.
+
+---
+
+## 🛠️ Languages & Tools
+
+**Languages:**  
+`C` `Java` `Python` `HTML` `CSS` `JavaScript`
+
+**Frameworks & Libraries:**  
+`React` `Node.js` `Express.js` `MongoDB` `MySQL` `Firebase` `Tailwind CSS` `FastAPI`
+
+**Tools:**  
+`Git` `GitHub` `VS Code` `Colab`
+
+---
+
+## 🎬 Side Hustle
+
+Apart from coding, I love Playing and watching Cricket & Reading Books.  
+I'm actively involved in tech communities like **FSD** **GDSC** at my college.
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn]([https://www.linkedin.com/in/vansh-sadadiwala-518571283/]) 
+- [GitHub]([https://github.com/](https://github.com/VanshSadadiwala)) 
